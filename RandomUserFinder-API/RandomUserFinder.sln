@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomUserFinder", "RandomUserFinder.csproj", "{666A140D-4ABF-401F-8D59-9E63C678F44A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomUserFinder.Tests", "..\RandoUserFinder.Tests\RandomUserFinder.Tests.csproj", "{F00515EF-BFE3-43E9-B6D9-6648AE4F34FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666A140D-4ABF-401F-8D59-9E63C678F44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666A140D-4ABF-401F-8D59-9E63C678F44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666A140D-4ABF-401F-8D59-9E63C678F44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666A140D-4ABF-401F-8D59-9E63C678F44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00515EF-BFE3-43E9-B6D9-6648AE4F34FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00515EF-BFE3-43E9-B6D9-6648AE4F34FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00515EF-BFE3-43E9-B6D9-6648AE4F34FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00515EF-BFE3-43E9-B6D9-6648AE4F34FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35427560-69B9-42F7-9602-21BF6A9CA25A}
+	EndGlobalSection
+EndGlobal
